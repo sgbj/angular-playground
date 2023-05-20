@@ -1,27 +1,16 @@
-# AngularPlayground
+# Angular Playground
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.2.
+Playground for components and ideas built with Angular and Tailwind.
 
-## Development server
+## Table of contents
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Table of contents that updates as you scroll.
 
-## Code scaffolding
+![image](https://github.com/sgbj/angular-playground/assets/5178445/a563bc54-1f0f-478b-8b59-d23f7f1d3c9f)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Overflow menu
 
-## Build
+Overflow menu that automatically shows and hides options based on available space.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+![image](https://github.com/sgbj/angular-playground/assets/5178445/cd2f9395-a73b-45bb-a014-785db1f5659f)
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
